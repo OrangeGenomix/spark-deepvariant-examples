@@ -1,7 +1,7 @@
-# DeepVariantSparkExamples
-Notebooks and examples for DeepVariant on Spark project.
+# Spark DeepVariant Examples
+Notebooks and examples for Spark DeepVariant project.
 
-Deep Variant on Spark provides,
+Spark Deep Variant provides,
 * A fully optimized core algorithm that works about twice as fast as the original implementation.
 * Well documented interface integrated into Jupyter Notebooks.
 * Optimized example generation stage that runs fully in parallel.
