@@ -11,4 +11,4 @@ Spark Deep Variant provides,
 * Ready to use: no IT team required, start an EMR cluster and get running in minutes.
 * Affordable: about 40 cents an hour on AWS cloud, regardless cluster size.
 
-This repo will contain examples for our first public release, interested in trialing the product? [Contact us!](https://sites.google.com/view/orangenomics-site/contact).
+This repo contains examples for our first public release, interested in trialing the product? [Contact us!](https://sites.google.com/view/orangenomics-site/contact).
