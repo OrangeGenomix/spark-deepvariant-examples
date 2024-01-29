@@ -14,4 +14,4 @@ Spark Deep Variant provides,
 Spark Deep Variant Tutorial [video](https://youtu.be/YP3xGTQf81o?si=dEMoNHLQ_1RbPshk), and [sample notebook](https://github.com/OrangeGenomix/spark-deepvariant-examples/blob/main/examples/SparkDeepVariantTutorial.ipynb).
 
 
-This repo contains examples for our first public release, interested in trialing the product? Contact us at [info@orangenomix.com](mailto:info@orangenomix.com?subject=[GitHub]%20I%20want%20information%20about%20Spark%20Deep%20Variant")
+This repo contains examples for our first public release, interested in trialing the product? Contact us at [info@orangenomix.com](mailto:info@orangenomix.com?subject=[GitHub]%20I%20want%20information%20about%20Spark%20Deep%20Variant)
